@@ -1,1 +1,1 @@
-# Power-BI-Dashboard-Madhav-Store
+# The Power BI dashboard for Madhav Store is designed to provide a comprehensive overview of the store’s operations and performance. It’s divided into several sections, each focusing on a specific aspect of the business.
